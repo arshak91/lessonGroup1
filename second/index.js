@@ -1,1 +1,4 @@
-const obj = {}
+const obj = {
+  name: "John",
+  surname: "Smith"
+}
