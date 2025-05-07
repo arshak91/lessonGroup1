@@ -1,0 +1,12 @@
+git branch              // cuyc e talis branch_ner@
+git status            // cuyc e talis te vor branchum enq u inch changer unenq
+git checkout -b dev  // stexcum e nor branch "dev"
+git add .            // add e anum bolor popoxutyunner@
+git add ./example    // add e anum konkret folder kam file
+
+git commit -m "fix"           // comment enq grum popoxutyan hamar
+git push --set-upstream origin test       // arajin angam popoxutyunner@ git texapoxelu hamar
+git push                // popoxutyunner@ texapoxum enq git
+
+git pull           //  exac changer@ berum enq mer local branch
+git pull origin main     // main branchi popoxutyunner@ berum enq mer local branch
